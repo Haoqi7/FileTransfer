@@ -1,8 +1,6 @@
 # 文件快传
 只需简单1步，极速文件互传，从未这样爽过！
-### 在线预览
 
-[示例地址](https://mapi.net.cn/)
 
 ### 前期准备
 
@@ -32,7 +30,6 @@
 
 + 把代码clone到自己电脑或者服务器上
 
-  >  git clone https://github.com/dzsdbsdxq/FileTransfer-Local-main.git
 
 + 修改配置`config/app.ini`
   ```golang
@@ -55,9 +52,9 @@
     # 网站标题
     WEB_NAME = 点点笔记
     # 网站URL
-    WEB_URL = https://mapi.net.cn
+    WEB_URL =
     # 网站备案号
-    WEB_MIT = 粤ICP备2020114467号
+    WEB_MIT = 
     # 子标题
     WEB_SUB_TITLE = 
     # 提示
